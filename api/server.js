@@ -15,13 +15,13 @@ const users = [
   {
     firstName: "Ratchaneekorn",
     lastName: "Chuadee",
-    email: "Ratchaneekorn_ra65@live.rmutl.ac.th",
+    email: "ratchaneekorn_ch65@live.rmutl.ac.th",
     position: "system analyst"
   },
   {
-    firstName: "aphinan",
-    lastName: "hongpong",
-    email: "aphinan_ap65@live.rmutl.ac.th",
+    firstName: "Aphinan",
+    lastName: "Hongpong",
+    email: "aphinan_ho65@live.rmutl.ac.th",
     position: "tester"
   }
 ];
